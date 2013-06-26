@@ -16,6 +16,22 @@ Give the repository a choice to either make these images avalable to other patro
 
 Encourage a climate of decreased risk-aversion around copyright and serving images on the web.
 
+
+Steps
+====
+
+ASpace API 
+  + Insert Digital Object
+  + Query/Browse Resource
+  + 
+  
+iOS
+  + Everything
+  + 
+  
+Android
+  + Everything
+
 See also
 =========
 
