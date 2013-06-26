@@ -23,11 +23,9 @@ Steps
 ASpace API 
   + Insert Digital Object
   + Query/Browse Resource
-  + 
   
 iOS
   + Everything
-  + 
   
 Android
   + Everything
