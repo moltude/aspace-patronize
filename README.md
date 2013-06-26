@@ -25,10 +25,10 @@ ASpace API
   + Query/Browse Resource
   
 iOS
-  + Everything
+  + 
   
 Android
-  + Everything
+  + 
 
 See also
 =========
