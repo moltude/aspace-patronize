@@ -1,7 +1,7 @@
 aspace-patronize
 ================
 
-mobile application for the rapid digitization of archival collections by reading room patrons.
+A mobile application for the rapid digitization of archival collections by reading room patrons.
 
 Goals
 =====
